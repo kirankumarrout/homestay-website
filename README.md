@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Olive House — Boutique Homestay
 
 A responsive, animated boutique-homestay website built with React + Vite + Framer Motion.
@@ -51,3 +52,7 @@ The footer currently links to Instagram. For a live Instagram feed, use Meta's o
 - Add real availability validation to prevent double booking.
 - Add Open Graph image, favicon and structured data (`LodgingBusiness` / `Hotel`) for SEO.
 - Add analytics and cookie/privacy handling if required.
+=======
+# homestay-website
+homestay website
+>>>>>>> a5b417e4af61817ebf399da6ae01939ff90d26e6
