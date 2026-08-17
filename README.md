@@ -1,6 +1,4 @@
-Absolutely. For this project, I'd make the README look like a **real production-quality portfolio/open-source project**, not a generic React README.
 
-Replace your current `README.md` with this:
 
 # 🌿 The Olive House
 
